@@ -101,10 +101,11 @@ Additional tools and libraries will be introduced as the project evolves.
 - [x] Order Life Cycle Management
 - [x] Execution Reports
 - [x] Clock and Event Foundation
-- [ ] Order Management System
-- [ ] Market Data Infrastructure (Live Market Data Feed, Synthetic Market Data & Historical MArket Data Replay)
+- [x] Order Management System
+- [x] Market Data Infrastructure (Live Market Data Feed, Synthetic Market Data & Historical MArket Data Replay)
+- [ ] Risk Management
 - [ ] Kill Switch
-- [ ] Avellaneda-Stoikov baseline strategy
+- [x] Avellaneda-Stoikov baseline strategy
 - [ ] Microprice integration
 - [ ] GLFT strategy
 - [ ] Execution Venue Interface
